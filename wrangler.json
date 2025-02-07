@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "locationar",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "97be59a1-48da-4e57-9dab-4b3f3b0ed10a",
+      "database_name": "locationar-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
